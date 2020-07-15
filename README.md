@@ -10,9 +10,10 @@
 
 # About
   Minimalist nolibc integration of [BLAKE3](https://github.com/BLAKE3-team/BLAKE3):
-    * Input is read ONLY from STDIN
-    * The generated hash is wrote directly to STDOUT
-    * C99 source compiled without libc
+  
+    . Input is read ONLY from STDIN
+    . The generated hash is wrote directly to STDOUT
+    . C99 source compiled without libc
 
   The reference source code has been barely modified. In files where changes were required, the original code has been kept for future reference / study.
 
